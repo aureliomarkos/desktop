@@ -10,7 +10,7 @@
 ## Instalação
 
 ```sh
-pip install -r requeriments.txt
+pip install -r requirements.txt
 python main.py
 ```
 
