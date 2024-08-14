@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------
+Data:28/05/2024           Relatório de Contas à Receber (Pago)           Pág.: 1
+09:07:40
+--------------------------------------------------------------------------------
+CLIENTE         REFERÊNCIA               DESCRIÇÃO          DATA VCTO      VALOR
+--------------------------------------------------------------------------------
+Cliente no Balc 8/2024 Parcela 5 de 5.   Recebimento divers 21/09/2024    300,00
+Cliente no Balc 7/2024 Parcela 4 de 5.   Recebimento divers 21/08/2024    300,00
+Cliente no Balc 6/2024 Parcela 3 de 5.   Recebimento divers 21/07/2024    300,00
+Cliente no Balc 5/2024 Parcela 2 de 5.   Recebimento divers 21/06/2024    300,00
+Marcos Aurélio  4/2024 Parcela 1 de 2.   Recebimento Client 21/05/2024    574,12
+--------------------------------------------------------------------------------
+                                                                         1774,12

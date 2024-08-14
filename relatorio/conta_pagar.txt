@@ -1,0 +1,21 @@
+--------------------------------------------------------------------------------
+Data:28/05/2024           Relatório de Contas à Pagar (Aberto)           Pág.: 1
+09:09:23
+--------------------------------------------------------------------------------
+FORNECEDOR      REFERÊNCIA               DESCRIÇÃO          DATA VCTO      VALOR
+--------------------------------------------------------------------------------
+Distribuidora d 6/2024 Parcela 3 de 3.   Pagto diversos     10/07/2024     29,33
+Fornecedor de S 5/2024 Parcela 2 de 2.   Pagto Fornec: Dist 21/06/2024    108,00
+Distribuidora d 5/2024 Parcela 2 de 2.   Pagto Fornec: Dist 21/06/2024     62,00
+Distribuidora d 5/2024 Parcela 2 de 3.   Pagto Fornec: Dist 21/06/2024     15,00
+Distribuidora d 5/2024 Parcela 1 de 1.   Pagamento diverso  20/06/2024    350,00
+Distribuidora d 5/2024 Parcela 2 de 3.   Pagto diversos     10/06/2024     29,33
+Distribuidora d 5/2024 Parcela 2 de 2.   Pagto diverso      06/06/2024     27,50
+Distribuidora d 4/2024 Parcela 1 de 2.   Pagto Fornec: Dist 21/05/2024   3675,00
+Fornecedor de S 4/2024 Parcela 1 de 2.   Pagto Fornec: Dist 21/05/2024    108,00
+Distribuidora d 4/2024 Parcela 1 de 2.   Pagto Fornec: Dist 21/05/2024     62,00
+Distribuidora d 4/2024 Parcela 1 de 3.   Pagto Fornec: Dist 21/05/2024     15,00
+Distribuidora d 4/2024 Parcela 1 de 1.   Pagamentos Diverso 20/05/2024   2000,00
+Distribuidora d 4/2024 Parcela 1 de 3.   Pagto diversos     10/05/2024     29,33
+--------------------------------------------------------------------------------
+                                                                         6510,49
